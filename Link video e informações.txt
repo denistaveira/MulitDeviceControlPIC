@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=Sd7ytfVgqrg
+
+Para a execução do projeto, basta carregar os códigos no respectivos dispositivos, liga-los e depois entrar no IP informado no monitor serial do arduino para controlar os dispositivos. 
